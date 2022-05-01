@@ -1,7 +1,7 @@
-# Candy Shop
+# NFT marketplace with solana
 
 
-## ⚠️ Solana Transaction  ⚠️
+## Rust smart contract
 
 market palce for solana Rust smart contract.
 
